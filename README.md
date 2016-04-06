@@ -1,6 +1,6 @@
 Tracker
 =======
-
+-
 Tracker is to help developers to jumpstart developping anykind of mobility tracking applications. 
 
 Tracker lets any type or number of GPS devices to post their locations to a nodejs server through a ReST service.
